@@ -60,3 +60,8 @@ GET,/invoices,Retrieve all invoices,Public
 PUT,/invoices/:id,Update an existing invoice by ID,Public
 DELETE,/invoices/:id,Delete an invoice by ID,Public
 
+<img width="1342" height="740" alt="image" src="https://github.com/user-attachments/assets/5c11c004-c759-48d5-8293-c870a2eb5e8f" />
+<img width="1393" height="887" alt="image" src="https://github.com/user-attachments/assets/3416394d-9158-40a0-b2ef-48efb84d4e49" />
+
+
+
